@@ -1,0 +1,121 @@
+A new formal application has been submitted to salesforce for the following plot types:
+- Flat connections
+- Multiple EV Charge points
+- Landlord
+- Temporary
+
+Expected result:
+The application details are submitted to Salesforce 
+
+Pre-requisites:
+Test_Case_2.1a has been run and data is available to compare in SF
+Case_id has been copied from the application email which is sent after a successful submission
+SPEN USER PROFILE page is open to compare the data
+User has admin rights for Salesforce
+
+System
+Salesforce URL
+https://spenergynetworkscrm--uat.sandbox.lightning.force.com/
+
+Post requisite:
+N/A
+
+Browsers:
+N/A
+
+Details in Salesforce:
+Test data:
+4 Connections
+
+Site address:
+Plot/House number: 37
+Street: Newhaven Main Street
+Town: Edinburgh
+County: Midlothian
+Post Code: EH6 4NQ
+
+---
+
+Flat 1
+Heating Type: Air Source Heat Pump
+Maximum load required: 10
+Phase required: Single Phase
+
+Significant Load
+N/A
+
+Connection Generation
+Technology: Wind Turbine
+Rating (kW): 9
+
+
+Connection Location (Please tell us anything else about the location of your new connection.)
+- Enter comments
+
+---
+
+Landlord 1
+Heating Type: Ground Or Water Source Heat Pump
+Maximum load required: 25
+Phase required: Three Phase
+
+Significant Load
+Other - Enter comments
+Energy Rating of Additional Loads (kW): 10
+
+Connection Generation
+Technology: Other 
+Rating (kW): 11
+
+Connection Location (Please tell us anything else about the location of your new connection.)
+- Enter comments
+
+---
+
+Temporary 1
+Heating Type: Electirc Central
+Maximum load required: 50
+Phase required: Single Phase
+
+Significant Load
+N/A
+
+Connection Generation
+Technology: Combined Heat and Power
+Rating (kW): 18
+
+Connection Location (Please tell us anything else about the location of your new connection.)
+- Enter comments
+
+---
+
+Multiple EV Charge points 1
+Heating Type: Hybrid Heat Pump
+Maximum load required: 12
+Phase required: Single
+What kind of Electric Vehicle Charging equipment are you connecting - EV Charger up to 8kW / 32A
+
+Significant Load
+- None
+
+Connection Generation
+Technology: PV (Solar Panels)
+Rating (kW): 9
+
+Connection Location (Please tell us anything else about the location of your new connection.)
+- N/A
+
+--- 
+Target date and Contact preferences
+N/A
+
+How would you prefer us to contact you?
+- Phone
+
+Is there any other useful information that you can share with us? - Leave blank
+
+---
+
+Supporting files
+Upload the following files types:
+N/A 

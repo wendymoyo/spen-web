@@ -1,0 +1,42 @@
+Connection 1:
+Property type: House
+Max Load Req'd: 10 kVA                            Edit
+Phase req'd: Single                               Edit
+Heating type: Gas, Oil or No heating              Edit
+
+Connection 2:
+Property type: Flat
+Max Load Req'd: 12 kVA                            Edit
+Phase req'd: Three                                Edit
+Heating type: Storage Heating (Space & Water)     Edit
+
+
+
+House 1
+Heating Type: Gas, Oil or No heating
+Maximum load required: 10
+Phase required: Single Phase
+Significant Load
+- Swimming Pool
+- Welding Equipment
+- Large Electrical Motors
+- 3-Phase EV Charger (11kW or greater)
+- Other (add comments in the Please provide more details of Additional Loads comment box)
+- Energy Rating of Additional Loads (kW) = 10
+
+Connection Generation
+Technology: Battery
+Rating: 400
+
+Connection Location (Please tell us anything else about the location of your new connection.)
+- Enter comments
+
+
+
+Flat 1
+Heating Type: Storage Heating (Space & Water)
+Maximum load required: 12
+Phase required: Three Phase
+Significant Load
+- None
+

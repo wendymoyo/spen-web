@@ -1,0 +1,69 @@
+Connection 1:
+Property type: Landlord
+Max Load Req'd: 20 kVA                              Edit
+Phase req'd: Three                                  Edit
+Heating type: Electric Central Heating              Edit
+
+Select the following:
+
+Heating Type: 
+- Electric Central Heating
+
+Maximum load required:
+- 20 kW
+
+Phase required: 
+- Three Phase
+
+AND
+
+Click 'Next'
+
+
+Connection 2:
+Property type: Temporary
+Max Load Req'd: 30 kVA                              Edit
+Phase req'd: Three                                  Edit
+Heating type: Air Source Heat Pump                  Edit
+
+Connection 3:
+Property type: Commercial
+Max Load Req'd: 800 kVA                             Edit
+Phase req'd: Three                                  Edit
+Heating type: Air Source Heat Pump                  Edit
+
+Connection 4:
+Property type: EvCharger
+Max Load Req'd: 40 kVA                              Edit
+Phase req'd: Three                                  Edit
+Heating type: Hybrid Heat Pump                      Edit
+
+
+
+Enter 1 in the Landlord connections box
+
+AND
+
+Enter 1 in the Temporary connections box
+
+AND
+
+Enter 1 in the Commercial connections box
+
+AND
+
+Enter 1 in the Multiple EV Charge points connections box
+
+AND
+
+Click 'Next
+
+Landlord 1 - Enter details
+Temporary 1 - Enter details
+Commercial 1 - Enter details
+EvCharger 1 - Enter details
+
+Landlord 1 - Site Postcode displays
+Temporary 1 - Site Postcode displays
+Commercial 1 - Site Postcode displays
+EvCharger 1 - Enter details
